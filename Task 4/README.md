@@ -11,10 +11,8 @@
 
 本次的作业是：
 
-利用所学知识，完成一个类手机QQ登录界面的UI实现。如下图所示
-
-![example](****https://github.com/GrayXu/HUST-AlibabaClub-Mobile-Tasks/master/Task%204/res/example.gif*****)
-"https://github.com/GrayXu/HUST-AlibabaClub-Mobile-Tasks/master/Task%204/res/example.gif"
+利用所学知识，完成一个类手机QQ登录界面的UI实现。效果如子文件夹res内的GIF图片所示。
+![example](https://github.com/GrayXu/HUST-AlibabaClub-Mobile-Tasks/raw/master/Task%204/res/example.gif)
 
 你需要ImageView、TextView、EditText、Button等控件来实现这个界面，同时还需要把握好界面的间距控制。在做界面布局的时候，大家初学可能先是直接在AndroidStudio上拖放控件，这样看起来很不错，但你不知道这个界面放在其他屏幕的样子是怎么样的了，因为每个手机的屏幕尺寸都不一样，可能会产生变形等等问题。这就是我们需要学习一些安卓的一些布局ViewGroup的原因：它们是用来存放控件的，不同的布局放置控件的形式也不一样，常用的布局有线性布局LinearLayout，它可以让控件View一起横着放或竖着放，还有一个是RelativeLayout，让控件们相对其他空间或父布局来放。不同的布局有不同的效果，因此我们需要了解布局的一些具体属性。
 
