@@ -25,3 +25,8 @@
 *PS: Git以后也会经常使用的，现在用网页版，desktop，git bash都可以。*
 
 最后，希望大家能善用搜索引擎。有什么问题都可以在群里讨论，不要担心问的问题是不是太基础什么的，我的姿势水平也不高，互相学习吧XD。有任何对组内活动的反馈都可以提出！
+
+-------
+
+*PPS：网页版Github使用：更新自己本地仓库的任务的链接：https://github.com/GrayXu/HUST-AlibabaClub-Mobile-Tasks/compare/master （即Compare操作）*
+*Pull request的链接https://github.com/GrayXu/HUST-AlibabaClub-Mobile-Tasks/pull/new/master*
